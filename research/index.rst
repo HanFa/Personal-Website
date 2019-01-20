@@ -9,7 +9,7 @@ My main research interests are mobile network and operating systems.
 Edge Cloud Research
 -----
 
-Mentored by Joseph Lee, I modified a vehicular lane departure warning system into a remote and parallel server-client model. 
+Mentored by `Joseph Lee <https://web.eecs.umich.edu/~hyunjong/>`_, I modified a vehicular lane departure warning system into a remote and parallel server-client model. 
 The remote server calculates the contours, curvatures, and off-center of lanes in parallel threads.
 Its performance had been studied under different network conditions. 
 
@@ -22,7 +22,7 @@ The research concludes an advantage of keeping user states around edge servers.
 Stack-Structured L-Tage 
 ------
 
-I conducted my first research with Prof. Ronald Dreslinksi and lab mates in CADRE group. 
+I conducted my first research with `Prof. Ronald Dreslinksi <https://web.eecs.umich.edu/~rdreslin/>`_ and lab mates in CADRE group. 
 It was about simulating a new stacked-structured L-Tage branch predictor using the gem5 simulator.
 I was responsible for implementing the new architecture design by writing C++ source code as a gem5 module and benchmarking its performance using SPEC2006. 
 
