@@ -11,6 +11,10 @@
 About Me
 ======
 
+.. raw:: html
+
+    <font color="blue"> <i> Write maintainable and easy-to-understand code. </i> </font>
+
 My name is Fang Han, a motivated software engineer and researcher in Ann Arbor.
 
 I just obtained the Computer Science B.S degree from the University of Michigan and UM-SJTU Joint Institute in Dec. 2018. 
