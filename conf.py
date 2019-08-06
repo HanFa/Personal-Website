@@ -46,7 +46,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'personal-website'
+project = 'Fang Han'
 copyright = '2019, Fang Han'
 author = 'Fang Han'
 

@@ -1,6 +1,6 @@
-==========
+=========================
 Programming Skills
-==========
+=========================
 
 I received my Computer Science Bachelor's degrees from `the Univerisity of Michigan <https://www.cse.umich.edu/>`_ and `Shanghai Jiao Tong Univerisity <http://umji.sjtu.edu.cn/global/>`_. I always keep a fast learning pace and have excellent records in a broad range of high-level CS courses. Please refer to my `transcripts </_static/transcripts_um.pdf>`_ for details.
 

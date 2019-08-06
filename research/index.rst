@@ -1,13 +1,13 @@
-==========
+==============================
 Research Statement
-==========
+==============================
 
 I have a one-year and a half experience as an undergraduate research assistant. 
 My main research interests are mobile network and operating systems.
 
 
 Edge Cloud Research
------
+-----------------------
 
 Mentored by `Joseph Lee <https://web.eecs.umich.edu/~hyunjong/>`_, I modified a vehicular lane departure warning system into a remote and parallel server-client model. 
 The remote server calculates the contours, curvatures, and off-center of lanes in parallel threads.
@@ -20,7 +20,7 @@ As a result, the stateful version has much better prediction confidence than the
 The research concludes an advantage of keeping user states around edge servers.
 
 Stack-Structured L-Tage 
-------
+------------------------------
 
 I conducted my first research with `Prof. Ronald Dreslinksi <https://web.eecs.umich.edu/~rdreslin/>`_ and lab mates in CADRE group. 
 It was about simulating a new stacked-structured L-Tage branch predictor using the gem5 simulator.

@@ -1,9 +1,9 @@
-==========
+=========================
 Major Design Projects
-==========
+=========================
 
 Opera - A Rhythm Shooter Game
-------
+---------------------------------
 
 Ultimate Opera Fight is a 3D third person shooter game where players compete in teams, 
 collect bullets with different specialties and fire towards each other for the opportunity to perform on stage.
@@ -20,7 +20,7 @@ Please visit the official website for more details.
 
 
 JustGo - Integrated Virtual Vehicle Simulation Platform on Android 
-------
+------------------------------------------------------------------------
 
 Company Sponsor: Android SH PNP, Intel 
 
@@ -36,7 +36,7 @@ Project Focuses:
 - Help develop virtual vehicle dashboard for IVI engineers
 - Significant role in a macro IVI Ecosystem
 
-.. image:: /../_static/justgo_left.png
+.. image:: ../_static/justgo_left.png
    :width: 500
    :height: 300
    :scale: 100 %
@@ -49,7 +49,7 @@ Project Focuses:
 
 
 Package Sorting Robot
------
+-----------------------------
 
 .. raw:: html
 
@@ -59,7 +59,7 @@ Package Sorting Robot
 
 A embedded system design project presented by Dali Zhang, Fang Han, Jiale Huang and Zizhao Wang. :red:`Best Project Award!`
 
-.. image:: /../_static/package-sorting-robot.jpg
+.. image:: ../_static/package-sorting-robot.jpg
    :width: 500
    :height: 300
    :scale: 100 %
